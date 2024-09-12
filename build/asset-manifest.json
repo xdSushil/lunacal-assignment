@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8c68fdb.css",
+    "main.js": "/static/js/main.c901ac7e.js",
+    "static/js/453.9682fc71.chunk.js": "/static/js/453.9682fc71.chunk.js",
+    "static/media/Anastronautridingahorseinaphotorealisticstyle6.webp": "/static/media/Anastronautridingahorseinaphotorealisticstyle6.b00db858e9b82227809d.webp",
+    "static/media/drake-performs-onstage-during-lil-baby-friends-birthday-news-photo-1696684425.jpg": "/static/media/drake-performs-onstage-during-lil-baby-friends-birthday-news-photo-1696684425.f493a62952db36f3421e.jpg",
+    "static/media/istockphoto-1419410282-612x612.jpg": "/static/media/istockphoto-1419410282-612x612.5a1e79ee26982616d9c3.jpg",
+    "static/media/pexels-photo-355508.webp": "/static/media/pexels-photo-355508.c0f349d00eb45e4d3c98.webp",
+    "index.html": "/index.html",
+    "main.d8c68fdb.css.map": "/static/css/main.d8c68fdb.css.map",
+    "main.c901ac7e.js.map": "/static/js/main.c901ac7e.js.map",
+    "453.9682fc71.chunk.js.map": "/static/js/453.9682fc71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8c68fdb.css",
+    "static/js/main.c901ac7e.js"
+  ]
+}
